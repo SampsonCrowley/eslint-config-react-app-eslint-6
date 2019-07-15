@@ -1,6 +1,6 @@
 {
-  "name": "eslint-6-config-react-app",
-  "version": "4.0.1",
+  "name": "eslint-six-config-react-app",
+  "version": "4.0.2",
   "description": "ESLint configuration used by Create React App Fixed for ESlint v6",
   "repository": {
     "type": "git",
